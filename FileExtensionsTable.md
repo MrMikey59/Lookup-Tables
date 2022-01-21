@@ -6,36 +6,83 @@
 | --- | --- | --- |  
 | Archive | Data Storage Binary file | .bin |  
 | Archive | Cabinet | .cab |  
+| Archive|Compiled HTML file|chm |  
 | Archive | Dynamic Link Library  file (precompiled library of functions & subroutines); Compiled Class Library | .dll |  
+| Archive|Extensible Firmware Interface, boot loader executables on UEFI based computer systems; C:\Windows\System32\Boot\winload.efi is the common boot loader on Win7/8/10 systems.|efi |  
+| Archive|ISO Image (/32 & /64)|iso |  
+| Archive|Outlook Data Storage|ost |  
+| Archive|Microsoft Outlook Personal Address Book|pab |  
+| Archive|Outlook Personal Archive Storage|pst |  
+| Archive|System Deployment Image, from Windows Embedded Studio, a disk image file, used primarily with Microsoft products to contain an arbitrary disk image, including boot sector information|sdi |  
+| Archive|Split Windows Image; OS Installation split over several media|swm |  
+| Archive|Windows OS Installation Image|wim |  
+| Archive|WinZIP compressed archive|zip |  
+| Archive|WinZIP compressed archive, XML|zipx |  
 | Audio-Video | AIFF sound file | .aiff |  
 | Audio-Video | AU sound file | .au |  
 | Audio-Video| |.avi  |  
 | Audio-Video | MPEG audio | .mp3 <BR> .mp2 |  
+| Audio-Video| [MPEG Standards](https://mpeg.chiariglione.org/standards/mpeg-h/image-file-format) |mpa <BR> mp4 |  
 | Audio-Video | MPEG movie | .mpeg <BR> .mpg |  
 | Audio-Video | QuickTime movie | .mov |  
 | Audio-Video| |.qt  |  
 | Audio-Video|Real Media audio file|.rm  |  
 | Audio-Video | WAV sound file | .wav |  
 | Audio-Video| |.wma  |  
+| Database|Access database back end (the tables)|accbe |  
+| Database|Access database that is digitally signed|accdc |  
+| Database|Access Database "executable" file (pre-complied to prevent code access)|accde |  
+| Database|Access Project < 2007|adp |  
+| Database |Web Query|iqy |  
+| Database|Access database lock 2007 & later|laccdb |  
+| Database|Access database lock< 2007|ldb |  
+| Database|Microsoft Access Database Library file (pre-complied functions and subroutines)|mda |  
+| Database|Access database < 2007|mdb |  
+| Database|Access Database "executable" file (pre-complied to prevent code access)|mde |  
 | Document|Cascade Style Sheet |.css  |  
+| Document|Comma Separated Values; Import/Export file (for contacts) in plain text|.csv |  
+| Document|Word Document Pre 2007|doc |  
+| Document|Word Document 2007, XML based|docx |  
+| Document|Microsoft Word Document Template|dot |  
+| Document|Microsoft Word Document Template/Macros|dotm |  
 | Document|HTML Application, Special HTML that doesn't use the browser for display, uses MSHTML.exe instead | .hta  |  
 | Document | HTML document | .html <BR> .htm <br> .mht |  
+| Document|Microsoft Project|mpp |  
+| Document|OneNote Tab|one |  
+| Document|OneNote Folder|onenote |  
+| Document|Adobe Acrobat Document|pdf |  
+| Document|Packaged PowerPoint Presentation|pps |  
+| Document|Microsoft PowerPoint Presentation|ppsx |  
+| Document|Microsoft PowerPoint Presentation|ppt |  
+| Document|Microsoft PowerPoint Presentation|pptx |  
+| Document|Publisher Pre 2007|pub |  
+| Document|Publisher 2007|pubx |  
+| Document|Rich Text Formatted|rtf |  
+| Document|Tab Separated Values; Import/Export file (for contacts) in plain text|tsv |  
 | Document | Plain Text | .txt <BR> .text <BR> .textfile |  
 | Document | Markdown Language | md |  
+| Document|Visio|vsd |  
 | Document | Excel 97-2003 Workbook | xls | 
 | Document | Excel Binary Workbook | xlsb | 
 | Document | Excel Macro-Enabled Workbook | xlsm | 
 | Document | Excel XML Workbook stored as a series of XML objects and then zipped into a single file | xlsx | 
+| Document|Worksheet Template|xlt |  
+| Document|XML Portable Document File|xps |  
 | Document | YAML: Yet Another Markdown Language | yml | | Image | Executable |  |.com  |  
 | Executable |  |.exe  |  
 | Executable | Script, Precompiled | .jse  |  
 | Executable | VB Script, Precompiled | .vbe  |  
 | Image | Bitmap image  | .bmp |  
 | Image | Graphic Information File (GIF) image  | .gif |  
-| Image | JPEG Formatted Picture (H.264) image; 8 Bit Color; JPEG Standards: https://jpeg.org/jpeg/index.html  | .jpeg <BR> .jpg |  
+| Image|HEIF Compressed Graphic (H.265); 16 Bit Color|heic |  
+| Image | JPEG Formatted Picture (H.264) image; 8 Bit Color; [JPEG Standards](https://jpeg.org/jpeg/index.html)  | .jpeg <BR> .jpg |  
 | Image | PostScript file | .ps |  
-| Image | TIFF image | .tiff |  
+| Image|Picture, compressed; Optimized for website|png |  
+| Image | Tagged Information File Format (TIFF) image; Typical output for scanners | .tif <BR> .tiff |  
+| Image|Google Image; [WebP Formats](https://www.howtogeek.com/325864/how-to-save-googles-webp-images-as-jpeg-or-png/) |webp |  
 | Image | X Bitmap image | .xbm |  
+| Script |Active Server Page|asp |  
+| Script |ASP.NET web page files (XML Based)|aspx |  
 | Script | BASIC Script | .bas |  
 | Script | DOS Shell | .bat <BR> .cmd |  
 | Script | Class Script | .cls |  
@@ -49,19 +96,30 @@
 | Script | | .wsf  |  
 | Script | | .wsh  |  
 | System | Executable used when loading OS at startup | .386  |  
+| System|Advanced Package Tool; a set of tools used to manage Debian packages on Debian and Debian-based operating systems. apt is used to install applications, update applications, remove applications, resolve dependency problems, etc.|apt |  
 | System | Control Panel|.cpl  |  
 | System | Security Certificate | .crt  |  
 | System | Drive Specification, used when loading OS at startup | .drv  |  
+| System |Generic Printer Description, text-based file used to describe a printer for printing from the Microsoft Windows 2000 and Windows XP operating systems using the Universal Printer Driver (Unidrv).|gpd |  
 | System | Help|.hlp  |  
 | System | Information, used when loading OS at startup | .inf  |  
+| System|Initialization file or initialization , stores initialization values used for installation or start up of programs.|ini |  
 | System | Symbolic Link | .lnk  |  
 | System | MS Management Console | .msc  |  
-| System | MS Install | .msi  |  
+| System | MS Install Package | .msi  |  
 | System | MS Install Package | .msp  |  
+| System|customize the installation settings for Microsoft Windows Installer applications, used by Microsoft Windows Installer (MSIEXEC.EXE)|mst |  
+| System|Multilingual User Interface, resource files that are used by Windows operating systems, versions 2000 and later, contain resources that allow you to change your Windows interface to display different languages.|mui |  
 | System | Modifies registry | .reg  |  
 | System | |.sys  |  
 | System | URL Link | .url  |  
 | System | Virtual Disk Drive | .vxd  |  
+| |WinRE Tools Partition FLaG file|flg |  
+| |International Color Consortium, a color profile format to help match the colors on a computer screen to the colors in printed and scanned documents|icc |  
+| |Outlook Stored Rules (exported)|rwz |  
+| |TurboPrep|tpm |  
+| |Word Add-In (Link Library)|wll |  
+| |Excel add-in|xla |  
     
 ## Archives  
 If you need more than what Windows offers, we recommend 7-Zip. 7-Zip is a free, open-source, powerful archiving tool for Windows. Its own 7z format is fantastic, but it also supports other popular formats including RAR, ZIP, GZIP, BZIP2, DMG, and ISO. 7-Zip actually has the best compression out of any file archiving program, too. Select its own 7z format and you’ll see smaller files than you would with other archive formats.  
