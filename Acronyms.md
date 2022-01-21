@@ -4,7 +4,8 @@
 | ---- | ---- | 
 |2FA| Two-Factor Authentication | 
 |AMA| Against Medical Advice |  
-|ASIN| Amazon Store Identification Number | 
+|ASIN| Amazon Store Identification Number |  
+|BYOS| Bring Your Own Server |  
 |COM| Component Object Model |  
 |CRL|Certificate Revocation List|
 |CTL|Certificate Trust List|
@@ -20,7 +21,7 @@
 |IE| Internet Explorer |  
 |JS| JavaScript |  
 |LFS| Large File System |  
-|METS|Metadata Coding and Transmission Standard|
+|METS|Metadata Coding and Transmission Standard|  
 |MODS|Metadata Object Description Schema|
 |NaN| Not a Number |  
 |ODBC|Open DataBase Connectivity |
@@ -36,6 +37,7 @@
 |SMS| Short Message Service |  
 |SOAP|Simple Object Access Protocol|  
 |SSH| Secure Shell |  
+|tl;dr <BR> [AKA:TLDR]| [Too Long; Didn’t Read] (https://www.howtogeek.com/435266/what-does-tldr-mean-and-how-do-you-use-it/)  |  
 |TCL|Tool Command Language|  
 |TL;DR| Too Long; Didn't Read |  
 |VB| Visual Basic |  
