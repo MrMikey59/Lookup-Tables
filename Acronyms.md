@@ -9,10 +9,12 @@
 |CRL|Certificate Revocation List|
 |CTL|Certificate Trust List|
 |CWIS|Campus-Wide Information System|
+|CYM| Cyan-Yellow-Magenta |  
 |DOM| Docunent Object Model |  
 |DRM| Digital Rights Management |  
 |DTD| Document Type Definition |  
 |GPG <BR> GnuPG| GNU Privacy Guard |  
+|HSL| Hue-Saturation-Luminescence  |  
 |HTTP|HyperText Transfer Protocol|  
 |IDLE| Integrated DeveLopment Environment |  
 |IE| Internet Explorer |  
@@ -27,6 +29,7 @@
 |PR| Pull Request (git) |  
 |PWA|Progressive Web Application|
 |Py| Python |  
+|RGB| Red-Green-Blue |  
 |RWD|Responsive Web Design|
 |SAE|Simultaneous Authentication of Equals|
 |SCM|Source Control Management|  
