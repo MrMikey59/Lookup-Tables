@@ -3,9 +3,13 @@
 | Acronym | Description | 
 | ---- | ---- | 
 |2FA| Two-Factor Authentication | 
+|ADB| Android Debug Bridge | 
 |AMA| Against Medical Advice |  
 |ASIN| Amazon Store Identification Number |  
+|AWS| Amazon Web Services |  
 |BYOS| Bring Your Own Server |  
+|CCL| Creative Commons License |  
+|CMS| Content Management System | 
 |COM| Component Object Model |  
 |CRL|Certificate Revocation List|
 |CTL|Certificate Trust List|
@@ -14,6 +18,7 @@
 |DOM| Docunent Object Model |  
 |DRM| Digital Rights Management |  
 |DTD| Document Type Definition |  
+|DVC| Data Version Control | 
 |GPG <BR> GnuPG| GNU Privacy Guard |  
 |HSL| Hue-Saturation-Luminescence  |  
 |HTTP|HyperText Transfer Protocol|  
@@ -22,7 +27,8 @@
 |JS| JavaScript |  
 |LFS| Large File System |  
 |METS|Metadata Coding and Transmission Standard|  
-|MODS|Metadata Object Description Schema|
+|MODS|Metadata Object Description Schema|  
+|MS| Microsoft |  
 |NaN| Not a Number |  
 |ODBC|Open DataBase Connectivity |
 |OSS| Open Source Software|  
