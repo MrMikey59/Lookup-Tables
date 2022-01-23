@@ -12,6 +12,7 @@
 |CMS| Content Management System | 
 |COM| Component Object Model |  
 |CRL|Certificate Revocation List|
+|CSSOM| Cascade Style Sheet Object Model | 
 |CTL|Certificate Trust List|
 |CWIS|Campus-Wide Information System|
 |CYM| Cyan-Yellow-Magenta |  
@@ -25,6 +26,7 @@
 |IDLE| Integrated DeveLopment Environment |  
 |IE| Internet Explorer |  
 |JS| JavaScript |  
+|LESS| Leaner Style Sheet |  
 |LFS| Large File System |  
 |METS|Metadata Coding and Transmission Standard|  
 |MODS|Metadata Object Description Schema|  
@@ -39,7 +41,9 @@
 |RGB| Red-Green-Blue |  
 |RWD|Responsive Web Design|
 |SAE|Simultaneous Authentication of Equals|
+|SASS| Syntactically Awesome Style Sheet |
 |SCM|Source Control Management|  
+|SCSS| Sassy Cascade Style Sheet | 
 |SMS| Short Message Service |  
 |SOAP|Simple Object Access Protocol|  
 |SSH| Secure Shell |  
@@ -51,6 +55,7 @@
 |VBS| Visual Basic Script |  
 |VCS|Version Control System|
 |WCAG|Web Content Accessibility Guidelines|
+|WIP| Work in Progress | 
 |WPA3 H2E|Wi-Fi Protected Access 3 Hash-to-Element protocol|
 |XML|eXtensible Markup Language|
 |XOBIS|XML Organic Bibliographic Information Schema|

@@ -89,6 +89,7 @@
 | Script | Dynamic Link Library, Called from scripts & executables | .dll  |  
 | Script | Used with HTML & HTA pages | .js  |  
 | Script | PowerShell | .ps1 |  
+| Script | Ruby | .rb |  
 | Script | BASH Shell | .sh |  
 | Script | Typically used as MS Office module | .vb  |  
 | Script | Used with HTML & HTA pages | .vbs  |  
@@ -114,7 +115,8 @@
 | System | |.sys  |  
 | System | URL Link | .url  |  
 | System | Virtual Disk Drive | .vxd  |  
-| |WinRE Tools Partition FLaG file|flg |  
+| System | Windows Play List | .wpl  |  
+| System | WinRE Tools Partition FLaG file|flg |  
 | |International Color Consortium, a color profile format to help match the colors on a computer screen to the colors in printed and scanned documents|icc |  
 | |Outlook Stored Rules (exported)|rwz |  
 | |TurboPrep|tpm |  
