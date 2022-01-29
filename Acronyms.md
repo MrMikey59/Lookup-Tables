@@ -43,7 +43,8 @@
 |SAE|Simultaneous Authentication of Equals|
 |SASS| Syntactically Awesome Style Sheet |
 |SCM|Source Control Management|  
-|SCSS| Sassy Cascade Style Sheet | 
+|SCSS| Sassy Cascade Style Sheet |   
+|SEO| Search Engine Optimization |  
 |SMS| Short Message Service |  
 |SOAP|Simple Object Access Protocol|  
 |SSH| Secure Shell |  
