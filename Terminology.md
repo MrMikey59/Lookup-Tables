@@ -144,6 +144,8 @@
 | Shallow Comparison |Comparing the contents of one variable to the contents of another variable using the equality (==) operator  |  
 | Shallow Copy |Copying the contents of one variable into another using the assignment (=) operator  |  
 | Shared Buffer |Memory used to temporarily share a data item among one or more threads  |  
+| [shim](http://en.wikipedia.org/wiki/Shim_(computing)) | in computing means an application compatibility workaround |  
+| shiv | a sharp object used as a knife-like weapon; in coding, it’s use originates from [John Resig](https://github.com/jeresig), who was thought to have used the word for its slang meaning, intended for Internet Explorer |  
 | Show Method |A method named show that ordinarily outputs all of the data members of an object or draws the object |  
 | Signature of a Method |The first line of a method’s code  |  
 | Software Engineer |A computer professional that produces programs that are error free, within budget, on schedule, and satisfy the customers’ current and future needs  |  
