@@ -11,6 +11,7 @@
 |CCL| Creative Commons License |  
 |CMS| Content Management System | 
 |COM| Component Object Model |  
+|CORS| [Cross-Origin Resource Sharing](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS) |
 |CRL|Certificate Revocation List|
 |CSSOM| Cascade Style Sheet Object Model | 
 |CTL|Certificate Trust List|
