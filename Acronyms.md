@@ -26,6 +26,7 @@
 |HTTP|HyperText Transfer Protocol|  
 |IDLE| Integrated DeveLopment Environment |  
 |IE| Internet Explorer |  
+|IETF| Internet Engineering Task Force |  
 |JS| JavaScript |  
 |LESS| Leaner Style Sheet |  
 |LFS| Large File System |  
@@ -33,12 +34,14 @@
 |MODS|Metadata Object Description Schema|  
 |MS| Microsoft |  
 |NaN| Not a Number |  
+|NTLM| New Technology Local Manager  |  
 |ODBC|Open DataBase Connectivity |
 |OSS| Open Source Software|  
 |PEP| Python Enhancement Proposal | 
 |PR| Pull Request (git) |  
 |PWA|Progressive Web Application|
 |Py| Python |  
+|RFC| Request for Comment |  
 |RGB| Red-Green-Blue |  
 |RWD|Responsive Web Design|
 |SAE|Simultaneous Authentication of Equals|
@@ -52,6 +55,8 @@
 |tl;dr <BR> [AKA:TLDR]| [Too Long; Didn’t Read] (https://www.howtogeek.com/435266/what-does-tldr-mean-and-how-do-you-use-it/)  |  
 |TCL|Tool Command Language|  
 |TL;DR| Too Long; Didn't Read |  
+|URI| Universal/Uniform Resource Identification |
+|URL| Universal/Uniform Resource Locator (AKA URI) |  
 |VB| Visual Basic |  
 |VBA| Visual Basic for Applications |  
 |VBS| Visual Basic Script |  
