@@ -1,4 +1,5 @@
 # Special Characters
+- [Unicode](www.unicode.org)
 
 | Description | Display | HTML Escapes | Inline <br> Escape Code | UTF-8 |
 | ----- | ----- | ----- | ----- | ----- | 

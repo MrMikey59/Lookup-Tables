@@ -22,6 +22,7 @@
 |DTD| Document Type Definition |  
 |DVC| Data Version Control | 
 |GPG <BR> GnuPG| GNU Privacy Guard |  
+|HID| [Human Interface Device](https://www.usb.org/hid)  |  
 |HSL| Hue-Saturation-Luminescence  |  
 |HTTP|HyperText Transfer Protocol|  
 |IDLE| Integrated DeveLopment Environment |  
