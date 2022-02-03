@@ -94,7 +94,8 @@
 | Loop |A sequence of instruction that is repeated a specified number of times or until a Boolean value becomes true or false |  
 | Map |A set of data structures that associate a key with each data element stored in the structure; the key can be used to specify the data element on which to operate  |  
 | Menu Mnemonic |A menu shortcut key (hot key) associated with a terminal menu item  |  
-|Methods|Functions associated to a class and used on an object; The subprograms defined within a class, a sequence of instructions that perform a particular task |
+|Methods|Functions associated to a class and used on an object; The subprograms defined within a class, a sequence of instructions that perform a particular task |  
+| minimize | remove white space and comments from plaintext script files |  
 | Multidimensional Array |An array in which each variable of the array is associated with 2, 3, … indices, for example an array of rows and columns |  
 | Multiple Inheritance |When a class inherits from more than one class; this is not supported in Java | 
 | Multitasking |Executing several threads of an application at the same time or giving the impression that they are executing at the same time |  
@@ -153,6 +154,7 @@
 | Static Data Member |A class’s data member that is designated to be shared by all instances of the class by including the keyword static in its declaration |  
 | Static Method |A method that is designated to be invoked by preceding the method name by the method’s class name followed by a dot; they are intended to be methods that do not operate on instances of the class |  
 | String |A finite sequence of characters |  
+| stringify | make the minimized plaintext script files properly formatted for readability |  
 | Subclass |A class that inherits from (extends) another class, also known as a derived or child class  |  
 | Super Class |A class that is inherited from, also known as a parent or base class  |  
 | Swapping Algorithm |An algorithm that swaps the values contained in two variables  |  
