@@ -38,43 +38,50 @@ Parentheses > Exponents > Multiplication > Division > Addition > Subtraction
 
 ## Common Operators
 
-| Operator | Type | Description | JS | Py |
-| :---: | --- | --- | :---: | :---: |  
-|-|Arithmetic operator|Subtracts the right from the left operand | Y | Y |  
-| %|Arithmetic operator| Modulo: Divides the left by the right operand and calculates the remainder | Y | Y |    
-| *|Arithmetic operator|Multiplies the operands | Y | Y |  
-| /|Arithmetic operator|Divides the left by the right operand | Y | Y |  
-| +|Arithmetic operator|Adds the operands | Y | Y |  
-| **|Arithmetic operator|Power: Returns x to the power of y||Y|  
-| //|Arithmetic operator|Floor Division: Returns the floor of the quotient||Y|  
-| =|Assignment operator | assigns the remainder to the left operand | Y | Y |  
-| %=|Assignment operator|Divides the left by the right operand and assigns the remainder to the left operand | Y |  |  
-| *=|Assignment operator|Multiplies the operands and assigns the result to the left operand | Y |  
-| /=|Assignment operator|Divides the left by the right operand and assigns the result to the left operand | Y |  |  
-| +=|Assignment operator|Adds together the operands and assigns the result to the left operand | Y |  |  
-| =|Assignment operator|Assigns the value of the right operand to the left operand | Y |  |  
-| -=|Assignment operator|Subtracts the right from left operand and assigns the result to the left operand | Y |  |  
-| !=|Comparison operator|Not Equal To: Evaluates to true if the operands are not equal | Y | Y |  
-| <|Comparison operator|Evaluates to true if the left operand is less than the right operand | Y | Y |  
-| <=|Comparison operator|Evaluates to true if the left operand is less than or equal to the right operand | Y | Y |  
-| ==|Comparison operator|Evaluates to true if the operands are equal | Y | Y |  
-| >|Comparison operator|Evaluates to true if the left operand is greater than the right operand | Y | Y |  
-| >=|Comparison operator|Evaluates to true if the left operand is greater than or equal to the right operand | Y | Y |  
-| typeOf |Comparison operator| Returns a string indicating the type of the operand | Y |  
-| !|Logical operator|Not: Evaluates to true if the operand is false and to false if the operand is true| Y |   |  
-| &&|Logical operator|And: Evaluates to true when both operands are true| Y |  |  
-| \|\||Logical operator|Or: Evaluates to true when either operand is true| Y |  |  
-| <<|Logical operator|Left Shift: Shifts the bits of the number to the left by the number of bits specified. (Each number is represented in memory by bits or binary digits i.e. 0 and 1)||Y|  
-| >>|Logical operator|Right Shift: Shifts the bits of the number to the right by the number of bits specified.||Y|  
-| &|Logical operator|Bitwise AND: Bitwise AND of the numbers||Y|  
-| \||Logical operator|Bit-wise OR: Bitwise OR of the numbers||Y|  
-| ^|Logical operator|Bit-wise XOR : 5 ^ 3 gives 6||Y|  
-| ~|Logical operator|Bit-wise invert: The bit-wise inversion of x is -(x+1)||Y|  
-| not|Logical operator|Boolean NOT: If x is True, it returns False. If x is False, it returns True.||Y|  
-| and|Logical operator|Boolean AND: x and y returns False if x is False, else it returns evaluation of y||Y|  
-| or|Logical operator|Boolean OR: If x is True, it returns True, else it returns evaluation of y||Y|  
-| +|String operator| Concatenation: Combines the operands into a single string| Y | Y |  
-| *|String operator| Repeat: Combines the operand into a single string repeating it a number of times|  | Y |  
+| Operator | Type | Description | JS | Py | MSO |  
+| :---: | --- | --- | :---: | :---: | :---: |   
+| ^ | Arithmetic operator | Exponentiation  |  |  | Y |    
+| & | Arithmetic operator | Percentage (division by 100)  |  |  | Y |    
+|-|Arithmetic operator|Subtracts the right from the left operand | Y | Y |  |    
+| %|Arithmetic operator| Modulo: Divides the left by the right operand and calculates the remainder | Y | Y |  |      
+| *|Arithmetic operator|Multiplies the operands | Y | Y |  |    
+| /|Arithmetic operator|Divides the left by the right operand | Y | Y |  |    
+| +|Arithmetic operator|Adds the operands | Y | Y |  |    
+| **|Arithmetic operator|Power: Returns x to the power of y||Y|  |    
+| //|Arithmetic operator|Floor Division: Returns the floor of the quotient||Y|  |    
+| =|Assignment operator | assigns the remainder to the left operand | Y | Y |  |    
+| %=|Assignment operator|Divides the left by the right operand and assigns the remainder to the left operand | Y |  |  |    
+| *=|Assignment operator|Multiplies the operands and assigns the result to the left operand | Y |  |    
+| /=|Assignment operator|Divides the left by the right operand and assigns the result to the left operand | Y |  |  |    
+| +=|Assignment operator|Adds together the operands and assigns the result to the left operand | Y |  |  |    
+| =|Assignment operator|Assigns the value of the right operand to the left operand | Y |  |  |    
+| -=|Assignment operator|Subtracts the right from left operand and assigns the result to the left operand | Y |  |  |    
+| !=|Comparison operator|Not Equal To: Evaluates to true if the operands are not equal | Y | Y |  |    
+| <|Comparison operator|Evaluates to true if the left operand is less than the right operand | Y | Y |  |    
+| <=|Comparison operator|Evaluates to true if the left operand is less than or equal to the right operand | Y | Y |  |    
+| ==|Comparison operator|Evaluates to true if the operands are equal | Y | Y |  |    
+| >|Comparison operator|Evaluates to true if the left operand is greater than the right operand | Y | Y |  |    
+| >=|Comparison operator|Evaluates to true if the left operand is greater than or equal to the right operand | Y | Y |  |    
+| typeOf |Comparison operator| Returns a string indicating the type of the operand | Y |  |    
+| !|Logical operator|Not: Evaluates to true if the operand is false and to false if the operand is true| Y |   |  |    
+| &&|Logical operator|And: Evaluates to true when both operands are true| Y |  |  |    
+| \|\||Logical operator|Or: Evaluates to true when either operand is true| Y |  |  |    
+| <<|Logical operator|Left Shift: Shifts the bits of the number to the left by the number of bits specified. (Each number is represented in memory by bits or binary digits i.e. 0 and 1)||Y|  |    
+| >>|Logical operator|Right Shift: Shifts the bits of the number to the right by the number of bits specified.||Y|  |    
+| &|Logical operator|Bitwise AND: Bitwise AND of the numbers||Y|  |    
+| \||Logical operator|Bit-wise OR: Bitwise OR of the numbers||Y|  |    
+| ^|Logical operator|Bit-wise XOR : 5 ^ 3 gives 6||Y|  |    
+| ~|Logical operator|Bit-wise invert: The bit-wise inversion of x is -(x+1)||Y|  |    
+| not|Logical operator|Boolean NOT: If x is True, it returns False. If x is False, it returns True.||Y|  |    
+| and|Logical operator|Boolean AND: x and y returns False if x is False, else it returns evaluation of y||Y|  |    
+| or|Logical operator|Boolean OR: If x is True, it returns True, else it returns evaluation of y||Y|  |    
+| +|String operator| Concatenation: Combines the operands into a single string| Y | Y |  |    
+| *|String operator| Repeat: Combines the operand into a single string repeating it a number of times|  | Y |  |    
+| =|Excel|Equation Start|||XL |  
+| ‘|Excel|Text Entry (left justified by default)|||XL |  
+| $|Excel|Absolute Reference [F4]; Identifies a dollar based currency value|||XL |  
+| ‘0 ’|Excel|Used to enter fractions in numerator/denominator format (1/2; don’t use the quotes!)|||XL |  
+| %|Excel|percentage data entry indicator (at end of value)|||XL |  
 
 ## Wild Cards 
 | Character | Description | Usage | 

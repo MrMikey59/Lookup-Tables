@@ -67,6 +67,7 @@
 | Document | Excel Macro-Enabled Workbook | xlsm | 
 | Document | Excel XML Workbook stored as a series of XML objects and then zipped into a single file | xlsx | 
 | Document|Worksheet Template|xlt |  
+| Document | Excel 97-2003 Workspace File | xlw | 
 | Document|XML Portable Document File|xps |  
 | Document | YAML: Yet Another Markdown Language | yml | | Image | Executable |  |.com  |  
 | Executable |  |.exe  |  
