@@ -17,10 +17,10 @@
 |CTL|Certificate Trust List|
 |CWIS|Campus-Wide Information System|
 |CYM| Cyan-Yellow-Magenta |  
-|DOM| Docunent Object Model |  
+|DOM| Document Object Model |  
 |DRM| Digital Rights Management |  
 |DTD| Document Type Definition |  
-|DVC| Data Version Control | 
+|DVC| Data Version Control |  
 |GPG <BR> GnuPG| GNU Privacy Guard |  
 |HID| [Human Interface Device](https://www.usb.org/hid)  |  
 |HSL| Hue-Saturation-Luminescence  |  
@@ -29,8 +29,10 @@
 |IE| Internet Explorer |  
 |IETF| Internet Engineering Task Force |  
 |JS| JavaScript |  
+|JSX| JavaScript Extension |  
 |LESS| Leaner Style Sheet |  
 |LFS| Large File System |  
+|LSE| Live Server Environment |  
 |METS|Metadata Coding and Transmission Standard|  
 |MODS|Metadata Object Description Schema|  
 |MS| Microsoft |  
@@ -95,4 +97,13 @@
 | Acronym | Description | 
 | ---- | ---- | 
 |AMA| Against Medical Advice |
+
+## Weapons Acronyms
+
+| Acronym | Description | 
+| ---- | ---- | 
+|ACP| Automatic Colt Pistol |
+|FMJ| Full Metal Jacket |  
+|GCA| Gun Control Act |  
+|XTP| Extreme Terminal Performance |  
 
