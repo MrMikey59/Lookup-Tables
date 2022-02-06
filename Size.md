@@ -10,6 +10,8 @@
 | pc  | pica  | Absolute  | 12 points (1/6 inch) |
 | px  | pixel  | Absolute  | One dot on the screen |
 
+**NOTE**: Avoid PT & PC in Web Development, as they are designed for print. Alos, avoid in, cm & mm as they are too larger for the control required in your browser.
+
 ### Absolute Size Values 
 | Size Abbreviation  | Meaning  | Type | Explanation |
 | ----  | ----  | ---- | ---- |
