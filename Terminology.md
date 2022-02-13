@@ -173,6 +173,7 @@
 | Universal Modeling Language (UML) Diagram |A graphical representation of a class that specifies the class’s name, data members, and the signatures of its methods; it is used to design a class |  
 | Variable |A named memory cell that can store a specific type of data item  |  
 | Void Method |A method that does not return a value  |  
+| White Space | any combination of space, line breaks or tabs |  
 | Worker Method |A method that is invoked by another method to perform a specific task (work) for it; for example, fetching the value of one of an object’s data members or drawing the object  |  
 | Wrapper Class |An API class that contains non-static primitive data members of a particular type |  
 
