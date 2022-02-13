@@ -30,6 +30,7 @@
 |IETF| Internet Engineering Task Force |  
 |JS| JavaScript |  
 |JSX| JavaScript Extension |  
+|LCM| Lifecycle Manager |  
 |LESS| Leaner Style Sheet |  
 |LFS| Large File System |  
 |LSE| Live Server Environment |  
@@ -46,7 +47,7 @@
 |Py| Python |  
 |RFC| Request for Comment |  
 |RGB| Red-Green-Blue |  
-|RWD|Responsive Web Design|
+|RWD|Responsive Web Design|  
 |SAE|Simultaneous Authentication of Equals|
 |SASS| Syntactically Awesome Style Sheet |
 |SCM|Source Control Management|  
@@ -63,6 +64,7 @@
 |VB| Visual Basic |  
 |VBA| Visual Basic for Applications |  
 |VBS| Visual Basic Script |  
+|VCF| [VMware Cloud Foundation]( https://www.vmware.com/products/cloud-foundation.html) |  
 |VCS|Version Control System|
 |WCAG|Web Content Accessibility Guidelines|
 |WIP| Work in Progress | 

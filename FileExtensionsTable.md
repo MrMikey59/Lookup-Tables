@@ -52,6 +52,7 @@
 | Document|OneNote Folder|onenote |  
 | Document|Adobe Acrobat Document|pdf |  
 | Document|Packaged PowerPoint Presentation|pps |  
+| Document|MarkDown | .md <BR> .mdown <br> .markdown |
 | Document|Microsoft PowerPoint Presentation|ppsx |  
 | Document|Microsoft PowerPoint Presentation|ppt |  
 | Document|Microsoft PowerPoint Presentation|pptx |  
