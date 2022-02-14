@@ -1,4 +1,17 @@
 # Namespace 
+- [Namespace](http://www.w3.org/TR/REC-html40)  
+- [XSD Schema](http://www.w3.org/2001/XMLSchema)
+
+| Source | Namespace ID | Namespace Call |  
+| --- | --- | --- |   
+| CrEdge |-ms |  |  
+| FireFox |-moz |  |  
+| Microsoft | m | `xmlns:m="http://schemas.microsoft.com/office/2004/12/omml"` |  
+| MS IE, Edge |-webkit |  |  
+| Opera |-o |  |  
+| Office | o | `xmlns:o="urn:schemas-microsoft-com:office:office"` |  
+| VML | v | `xmlns:v="urn:schemas-microsoft-com:vml"` |  
+| Word | w | `xmlns:w="urn:schemas-microsoft-com:office:word"` |  
 
 | NameSpace ID | Source |
 | ---------- | --------- |
@@ -10,10 +23,7 @@
 | xmlns:dcmitype | "http://purl.org/dc/dcmitype/"  |
 | xmlns:dcterms | "http://purl.org/dc/terms/"  |
 | xmlns:ds | "http://schemas.openxmlformats.org/officeDocument/2006/customXml" |
-| xmlns:html | "http://www.w3.org/TR/REC-html40" |
 | xmlns:ma | "http://schemas.microsoft.com/office/2006/metadata/properties/metaAttributes" |
-| xmlns:ns2 | "f12a8906-2bcb-4e5d-852d-4d021b1b7c77" |
-| xmlns:o | "urn:schemas-microsoft-com:office:office" |
 | xmlns:p | "http://schemas.microsoft.com/office/2006/metadata/properties"  |
 | xmlns:pc | "http://schemas.microsoft.com/office/infopath/2007/PartnerControls" |
 | xmlns:ss | "urn:schemas-microsoft-com:office:spreadsheet" |
@@ -23,5 +33,4 @@
 | xmlns:xs | "http://www.w3.org/2001/XMLSchema"  |
 | xmlns:xsd | "http://www.w3.org/2001/XMLSchema"  |
 | xmlns:xsi | "http://www.w3.org/2001/XMLSchema-instance" |  
-| xs | XSD schema (http://www.w3.org/2001/XMLSchema) |  
 
