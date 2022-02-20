@@ -3,7 +3,8 @@
 | Acronym | Description | 
 | ---- | ---- | 
 |2FA| Two-Factor Authentication | 
-|ADB| Android Debug Bridge | 
+|ADB| Android Debug Bridge |  
+|AJAX| Asynchronous Javascript And XML |  
 |AMA| Against Medical Advice |  
 |ASIN| Amazon Store Identification Number |  
 |AWS| Amazon Web Services |  
@@ -29,6 +30,7 @@
 |IE| Internet Explorer |  
 |IETF| Internet Engineering Task Force |  
 |JS| JavaScript |  
+|JSON| JavaScript Object Notation |  
 |JSX| JavaScript Extension |  
 |LCM| Lifecycle Manager |  
 |LESS| Leaner Style Sheet |  
@@ -99,6 +101,18 @@
 | Acronym | Description | 
 | ---- | ---- | 
 |AMA| Against Medical Advice |
+|AML-MRC|Acute Myeloid Leukemia with Myelodysplasia-Related Changes|  
+|BPH|Benign Prostatic Hyperplasia|  
+|CD33|An AML mutation protein|  
+|CRh|Partial Hematologic Recovery|  
+|FHCRC|Fred Hutchinson Cancer Research Center|  
+|FLT3|An AML genetic mutation|  
+|HPV|Human Papillomavirus |  
+|IDH2|An AML mutation protein|  
+|MDS|Myelodysplastic Syndrome|  
+|MKI|Multi-Kinase Inhibitor|  
+|PET|Positron Emission Tomography|  
+|t-AML|Treatment Related Acute Myeloid Leukemia|  
 
 ## Weapons Acronyms
 
