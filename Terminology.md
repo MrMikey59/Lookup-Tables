@@ -1,4 +1,6 @@
-## Terminology  
+# Terminology  
+
+## Programming, Coding & Information Technology
 
 | Term | Description |  
 | ---- | ---- |  
@@ -177,7 +179,89 @@
 | Worker Method |A method that is invoked by another method to perform a specific task (work) for it; for example, fetching the value of one of an object’s data members or drawing the object  |  
 | Wrapper Class |An API class that contains non-static primitive data members of a particular type |  
 
-<HR>
+<HR>  
+
+## Projects, Business & Statistics
+| Term | Description |  
+| ---- | ---- |  
+| Alpha level | The probability of making a Type 1 error--that is, wrongly rejecting the null hypothesis. Typically alpha levels are set at .05, which means the decision is likely to be wrong five times out of a hundred. To set an alpha level of 0.05 means there is a 95 percent confidence level in the associated probability.|  
+| Alternate Hypothesis (H1)| an additional prediction that the researcher believes might be nullified |  
+| Alternative | A course of action or a strategy that may be chosen by a decision maker.|  
+| Bi-modal distribution | A distribution with two peaks within a skewed distribution, usually signaling process change.|  
+| Binomial distribution | A discrete distribution that describes the number of successes in independent trials of a Bernoulli process. A distribution that describes the possible number of times a particular event will occur in a sequence of observations. It tells an observer whether an event will occur, rather than its magnitude.|  
+| Bivariate distribution | The simultaneous and joint cross-classification of two variables. For example, a bivariate distribution of gender and of support for a Presidential candidate would classify these categories males in favor, females in favor, males against, and females against.|  
+| Central Limit Theorem | A theorem that states that the averages of repeated samples will result in a normal, or z distribution, even if the parent distribution is nonnormal. The theorem depends on a large sample size of more than 30, as well as knowledge of the standard deviation.|  
+| Chi-square distribution | A distribution that tests differences between expected and observed proportions. Its sole parameter is degrees of freedom. The positive skew lessens with greater degrees of freedom.|  
+| Coefficient of Realism (α) | A number from 0 to 1. When the coefficient is close to 1, the decision criterion is optimistic. When the coefficient is close to zero, the decision criterion is pessimistic. |  
+| Conditional Value or Payoff | A consequence, normally expressed in a monetary value, that occurs as a result of a particular alternative and state of nature.|  
+| Confidence interval | The range of mean values within which the true population mean is likely to fall.|  
+| Confidence level | The range of confidence, such as 95 percent, that can be extended to a given hypothesis. Confidence levels are determined by subtracting the alpha level from 100 percent. For example, a confidence level of 95 percent would be rendered 1 - alpha = (1 - 0.95 = 0.05).|  
+| Continuous distribution | Measures the magnitude of data in any fractional or decimal amount.|  
+| Continuous Probability Distribution | A probability distribution with a continuous random variable.|  
+| Decision-Making Model | using models based on quantitative concepts such as: simulation, linear programming, integer linear programming, inventory models, waiting line models, and transportation, assignment, and transshipment problems. |  
+| Decision Node (Point) | In a decision tree, this is a point where the best of the available alternatives is chosen. The branches represent the alternatives.|  
+| Decision Table or Payoff Table | A table that lists the alternatives, states of nature, and payoffs in a decision-making situation.|  
+| Decision Theory | An analytic and systematic approach to decision making.|  
+| Decision Tree | A graphical representation of a decision making situation.|  
+| Degrees of freedom (df) | The number of components in the calculation of a statistic that are free to vary. As sample size increases, so do degrees of freedom. Normally, the degrees of freedom of an estimate are equal to the number of independent scores that go into the estimate, minus the number of parameters estimated as intermediate steps in the parameter.|  
+| Degrees of freedom numerator (dfn) | df for the estimated variance before process modification|  
+| Degrees of freedom denominator (dfd) | df for the estimated variance after process modification|  
+| Discrete distribution | Measures data in terms of whole values. Any intermediate mean values must be rounded up or down.|  
+| Discrete Probability Distribution | A probability distribution with a discrete random variable.|  
+| Distribution | an array of data plotted about the mean for a relationship under study. Popular distributions include the normal, Continuous, Poisson, binomial, discrete, and exponential probability distributions. The distribution follows the three rules required of all probability distributions: (1) the events are mutually exclusive and collectively exhaustive, (2) the individual probability values are between 0 and 1 inclusive, and (3) the total of the probability values sum to 1.|  
+| Efficiency of Sample Information (ESI) | A measure of how good the sample information is relative to perfect information.|  
+| Expected Monetary Value (EMV) | EMV is the weighted sum of possible payoffs for each alternative. The average value of a decision if it can be repeated many times. This is determined by multiplying the monetary values by their respective probabilities. The results are then added to arrive at the EMV. The alternative with the maximum EMV is then chosen.|  
+| Expected Opportunity Loss (EOL) | the cost of not picking the best solution [EOL will always result in the same decision as the maximum EMV.]|  
+| Expected Value of Perfect Information (EVPI) | The average or expected value of information if it were completely accurate. The increase in EMV that results from having perfect information.|  
+| Expected Value of Sample Information (EVSI) | The increase in EMV that results from having sample or imperfect information.|  
+| Expected Value with Perfect Information (EVwPI) | The average or expected value of a decision if perfect knowledge of the future is available.|  
+| Exponential distribution | A continuous probability distribution used in modeling the rate of change that will occur in a given amount of time.|  
+| Flow Diagram [AKA:  Flowchart] | A graphical means of presenting the logic of a simulation model. It is a tool that helps in writing a simulation computer program.|  
+| Goodness of fit | A term referring to how well sample data conform to a theoretical distribution.|  | Hypergeometric distribution | The total number of successes in a given sample size drawn from a finite population. Once a sample is chosen, it is removed from population and not used to any successive selections.|  
+| Hypothesis | a prediction made to support the start of a test process |  
+| Interval | All the numbers between two indicated points in a distribution, and possibly the points themselves.|  
+| Logarithm |The exponent of the power to which a base number must be raised to equal a given number. For example, 2 is the logarithm of 100 to the base of 10.|  
+| Lognormal distribution | The probability distribution of any random variable whose logarithm is normally distributed.|  
+| Mean | average of a set of values|  
+| “Measures of Central Tendency” | average or mean value of a given set of values.|  
+| Median | middle value in an ordered set of values|  
+| Mode | most common values in a set of values|  
+| Monte Carlo Simulation | Simulations that experiment with probabilistic elements of a system by generating random numbers to create values for those elements.|  
+| Multi-modal distribution | A distribution with more than two peaks within a skewed distribution. Multi-modal distributions usually indicate change within a process.|  
+| Negative Exponential Distribution | A continuous probability distribution that describes the time between customer arrivals in a queuing situation.|  
+| Normal distribution | A continuous bell-shaped distribution that is a function of two parameters, the mean and standard deviation of the distribution. A family of distributions that are symmetric, with most data concentrated in the middle. The bell-shaped curve is the classic normal distribution.|  
+| Null Hypothesis (H0) | The prediction that the researcher believes will be nullified, or proven untrue|  | Parameter | An estimated numerical quantity measuring some aspect of a population of scores. For example, mean and standard deviation can both be parameters.|  
+| Operational Gaming | The use of simulation in competitive situations such as military games and business or management games.|  
+| Opportunity Loss or Regret | The amount you would lose by not picking the best alternative. For any state of nature, this is the difference between the consequences of any alternative and the best possible alternative.|  
+| Poisson distribution | A discrete probability distribution used in queuing theory. A distribution used to model the number of random occurrences of an event within one space or time.|  
+| Posterior (Conditional) Probability | A conditional probability of a state of nature that has been adjusted based on sample information. This is found using Bayes’ Theorem.|  
+| Prewritten Simulation Programs | Graphical programs that are prestructured to handle a variety of situations.|  
+| Prior Probability | The initial probability of a state of nature before sample information is used with Bayes’ theorem to obtain the posterior probability.|  
+| Probability distributions | A wide range of formulas that can be used to measure various aspects of speculative events. Distributions are usually segregated into the categories of normal and nonnormal, continuous and discrete; The set of all possible values of a random variable and their associated probabilities. |  
+| Random Number. | A number whose digits are selected completely at random.|  
+| Random Number Interval | A range of random numbers assigned to represent a possible simulation outcome.|  
+| Random variable | A rule that assigns a value to each possible outcome of an event. Alternatively, a sample randomly picked from a group that is judged to be representative of the group in some way.|  
+| Risk Avoider | A person who avoids risk. On the utility curve, as the monetary value, the utility increases at a decreasing rate. This decision maker gets less utility for a greater risk and higher potential returns.|  
+| Risk Seeker | A person who seeks risk. On the utility curve, as the monetary value increases, the utility increases at an increasing rate. This decision maker gets more pleasure for a greater risk and higher potential returns.|  
+| Sequential Decisions | Decisions in which the outcome of one decision influences other decisions.|  
+| Simulation | A quantitative analysis technique that involves building a mathematical model that represents a real-world situation. The model is then experimented with to estimate the effects of various actions and decisions.|  
+| Simulation Modeling | models used to analyze a variety of complex and dynamic processes; often used when managers face a variety of possible outcomes with different probabilities; used in areas such as inventory modeling, production planning, budgeting, and many other areas to improve business decision making. |  
+| Simulation Software Tools | Programming languages especially designed to be efficient in handling simulation problems.|  
+| Skew | A term that describes data whose distribution plots more heavily in one direction. A tail leading to the right is a positive skew. A tail leading to the left is a negative skew. A symmetric distribution has no skew.|  
+| Standard error | The standard deviation divided by the square root of the sample mean; that is, a measure of the error expected in the value obtained from any sample mean taken from a population. [equals the standard deviation divided by square root of the sample size]|  
+| Standard Gamble | The process used to determine utility values.|  
+| State of Nature | An outcome or occurrence over which the decision maker has little or no control.|  
+| State-of-Nature Node | In a decision tree, a point where the EMV is computed. The branches coming from this node represent states of nature.|  
+| Systems Simulation | Simulation models that deal with the dynamics of large organizational or governmental systems.|  
+| T-Distribution | Infers whether a small sample accurately reflects a larger population by comparing degrees of freedom, the T-statistic, and associated values found on the T-Distribution Table.|  
+| Utility | The overall value or worth of a particular outcome.|  
+| Utility Assessment | The process of determining the utility of various outcomes. This is normally done using a standard gamble between any outcome for sure and a gamble between the worst and best outcomes.|  
+| Utility Curve | A graph or curve that reveals the relationship between utility and monetary values. When this curve has been constructed, utility values from the curve can be used in the decision-making process.|  
+| Utility Theory | A theory that allows decision makers to incorporate their risk preference and other factors into the decision-making process.|  
+| Validation | The process of comparing a model to the real system that it represents to make sure that it is accurate.|  
+| Verification | The process of determining that the computer model is internally consistent and following the logic of the conceptual model.|  
+| Weibull distribution | A distribution that models the probable lifetimes of objects, such as the time until a given device will fail.|  
+
 
 ## Phrases
 There is a phrase in French, “esprit d’escalier”, which literally means “stairway wit” and is used to refer to a witty remark a person thinks of too late to use in an encounter—a nod to how we often think of something great to say when we are taking the stairs to leave and it is too late to capitalize on our cleverness.  

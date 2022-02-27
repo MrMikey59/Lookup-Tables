@@ -12,7 +12,8 @@
 |CCL| Creative Commons License |  
 |CMS| Content Management System | 
 |COM| Component Object Model |  
-|CORS| [Cross-Origin Resource Sharing](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS) |
+|CORS| [Cross-Origin Resource Sharing](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS) |  
+|CPM| Critical Path Method |  
 |CRL|Certificate Revocation List|
 |CSSOM| Cascade Style Sheet Object Model | 
 |CTL|Certificate Trust List|
@@ -22,6 +23,9 @@
 |DRM| Digital Rights Management |  
 |DTD| Document Type Definition |  
 |DVC| Data Version Control |  
+|EOQ| Economic Order Quantity |  
+|FIFO|First-In, First-Out (AKA: Queue)|  
+|FILO|First-In, Last-Out (AKA: Stack)|  
 |GPG <BR> GnuPG| GNU Privacy Guard |  
 |HID| [Human Interface Device](https://www.usb.org/hid)  |  
 |HSL| Hue-Saturation-Luminescence  |  
@@ -29,12 +33,15 @@
 |IDLE| Integrated DeveLopment Environment |  
 |IE| Internet Explorer |  
 |IETF| Internet Engineering Task Force |  
+|JIT|Just-In-Time|  
 |JS| JavaScript |  
 |JSON| JavaScript Object Notation |  
 |JSX| JavaScript Extension |  
 |LCM| Lifecycle Manager |  
 |LESS| Leaner Style Sheet |  
 |LFS| Large File System |  
+|LMS|Labor-Management System|  
+|LP|Linear Programming|  
 |LSE| Live Server Environment |  
 |METS|Metadata Coding and Transmission Standard|  
 |MODS|Metadata Object Description Schema|  
@@ -44,11 +51,13 @@
 |ODBC|Open DataBase Connectivity |
 |OSS| Open Source Software|  
 |PEP| Python Enhancement Proposal | 
+|PERT|Program Evaluation and Review Technique|  
 |PR| Pull Request (git) |  
 |PWA|Progressive Web Application|
 |Py| Python |  
 |RFC| Request for Comment |  
 |RGB| Red-Green-Blue |  
+|ROP|Reorder Point|  
 |RWD|Responsive Web Design|  
 |SAE|Simultaneous Authentication of Equals|
 |SASS| Syntactically Awesome Style Sheet |
