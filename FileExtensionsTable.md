@@ -117,6 +117,7 @@
 | System | |.sys  |  
 | System | URL Link | .url  |  
 | System | Virtual Disk Drive | .vxd  |  
+| System | VS Code Install Extension | .vsix |  
 | System | Windows Play List | .wpl  |  
 | System | WinRE Tools Partition FLaG file|flg |  
 | |International Color Consortium, a color profile format to help match the colors on a computer screen to the colors in printed and scanned documents|icc |  
@@ -137,6 +138,7 @@ If you need more than what Windows offers, we recommend 7-Zip. 7-Zip is a free, 
   
 **Audio**: WAV, FLAC, and ALAC (Apple Lossless Audio Codec, used by iTunes) are all lossless audio formats. MP3, MP4, and OGG are lossy audio formats. Nowadays, computers will play anything, most audio players (except Apple’s, of course) will do multiple lossy formats, and more and more do FLAC and APE. Apple sticks to MP3, ALAC, and AAC.   
 Spotify uses the open-source, unpatented Ogg Vorbis format. Apple Music streams proprietary AAC audio. Both formats provide better sound quality than MP3 at low bitrates. However, the difference is negligible at higher bitrates, and for those who care deeply about archival and preserving audio quality, FLAC is still the king of lossless compression.  
+
 #### Lossless Audio  
 - FLAC: Free Lossless Audio Codec, a lossless compression method; a FLAC file for stereo audio at “CD quality” runs roughly 5 MB per minute.  
 - ALAC: Apple Lossless Audio Codec, a lossless compression method.  

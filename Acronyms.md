@@ -8,6 +8,7 @@
 |AMA| Against Medical Advice |  
 |ASIN| Amazon Store Identification Number |  
 |AWS| Amazon Web Services |  
+|BLUF| Bottom Line Up Front |  
 |BYOS| Bring Your Own Server |  
 |CCL| Creative Commons License |  
 |CMS| Content Management System | 
@@ -53,6 +54,7 @@
 |PEP| Python Enhancement Proposal | 
 |PERT|Program Evaluation and Review Technique|  
 |PR| Pull Request (git) |  
+|PUA| Private Use Area (Unicode) |  
 |PWA|Progressive Web Application|
 |Py| Python |  
 |RFC| Request for Comment |  
@@ -66,10 +68,12 @@
 |SEO| Search Engine Optimization |  
 |SMS| Short Message Service |  
 |SOAP|Simple Object Access Protocol|  
+|SRD| Systems Requirement Document |  
 |SSH| Secure Shell |  
 |tl;dr <BR> [AKA:TLDR]| [Too Long; Didn’t Read] (https://www.howtogeek.com/435266/what-does-tldr-mean-and-how-do-you-use-it/)  |  
 |TCL|Tool Command Language|  
 |TL;DR| Too Long; Didn't Read |  
+|TRD| Technical Requirement Document |  
 |URI| Universal/Uniform Resource Identification |
 |URL| Universal/Uniform Resource Locator (AKA URI) |  
 |VB| Visual Basic |  

@@ -12,12 +12,18 @@
 
 **NOTE**: Avoid PT & PC in Web Development, as they are designed for print. Alos, avoid in, cm & mm as they are too larger for the control required in your browser.
 
-### Absolute Size Values 
+### Relative Size Values 
 | Size Abbreviation  | Meaning  | Type | Explanation |
 | ----  | ----  | ---- | ---- |
 | % | Percentage | Relative | generate font sizes based on the inherited or default size of the font |
+| ch 	|  | Relative | the width of the "0" (zero)|  
 | em | em height | Relative | the height of a capital “M” character in the given font |
 | ex | ex height | Relative | the height of the lower-case “x” character in a font |
+| rem 	|  | Relative | font-size of the root element|  
+| vw	|    | Relative | 1% of the width of the viewport*|  
+| vh	|    | Relative | 1% of the height of the viewport*|  
+| vmin	|    | Relative | 1% of viewport's* smaller dimension|  
+| vmax	|    | Relative | 1% of viewport's* larger dimension|  
 
 Note: Under some circumstances, relative font values can combine and multiply, producing bizarre results indeed.
 

@@ -79,6 +79,7 @@
 |Git Bash|an emulator that allows you to interact with Git just like you would on a Linux or Mac terminal|  
 | Graphical User Interface (GUI) |A means of interacting with the program user via a point-and-click mode, as opposed to a text-based mode, aimed at facilitating the I/O process  |  
 | Hypertext Markup Language (HTML) |A scripting language for writing instructions to be downloaded and executed by a Web browser to build and display a Web page; the script can contain instructions to download and execute a Java applet  |  
+| Image Sprite | a collection of images put into a single image file; using image sprites will reduce the number of server requests and save bandwidth || Repaint | process of refreshing the screen view of a browser which is caused when any process of re-rendering the DOM when certain property or element is changed without changing its layout |
 | Index |The integer associated with a variable in an array  |  
 | Inheritance |A programming concept in which a new class can contain all of the data members and methods of an existing class by simply including an extends clause in its heading  |  
 | Inner class |A class that is defined within another class  |  
@@ -136,6 +137,7 @@
 | Recursive method |A method that invokes itself or initiates a sequence of method invocations that eventually leads to an invocation of itself |  
 | Reduced problem |Part of the methodology of formulating recursive algorithms, it is a problem similar to the original problem, usually between the original problem and the base case, usually closer to the original problem, and (when progressively reduced) becomes the base case for all versions of the original problem |  
 | Reference variable |A variable that can store a memory address; the type used in its declaration is the name of a class |  
+| Reflows | process of reloading/rebuilding the screen view of a browser which is caused by changing the page layout, such as change the width of an element |
 | Registering an event handler |The act of associating an event-handler method with a particular event that could be performed on a GUI component |  
 |Repository| All the files and folders related to a project; gives you control of permissions and collaborators’ interaction with your code. |  
 | Runtime |the time during which the program is in execution  |  
