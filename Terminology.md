@@ -2,8 +2,8 @@
 
 ## Programming, Coding & Information Technology
 
-| Term | Description |  
-| ---- | ---- |  
+| Term | Description | Source |  
+| ---- | ---- | --- |  
 | Abstract Class  | A class that includes the keyword abstract in its signature and cannot be instantiated; it is used during the design process to collect data members and methods common to several classes  |  
 | Aggregated Class  | A class that contains at least one data member that references an object  |  
 | Aggregation  | The concept of referencing objects from a class’s data members  |  
