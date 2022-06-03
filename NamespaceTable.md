@@ -6,10 +6,13 @@
 | --- | --- | --- |   
 | CrEdge |-ms |  |  
 | FireFox |-moz |  |  
+| FontAwesome | fa- |  |  
+| Google | material- |  |  
 | Microsoft | m | `xmlns:m="http://schemas.microsoft.com/office/2004/12/omml"` |  
 | MS IE, Edge |-webkit |  |  
 | Opera |-o |  |  
-| Office | o | `xmlns:o="urn:schemas-microsoft-com:office:office"` |  
+| Office | o- <BR> mso- | `xmlns:o="urn:schemas-microsoft-com:office:office"` |  
+| Twitter | bi- | Bootstrap Icon | 
 | VML | v | `xmlns:v="urn:schemas-microsoft-com:vml"` |  
 | Word | w | `xmlns:w="urn:schemas-microsoft-com:office:word"` |  
 
