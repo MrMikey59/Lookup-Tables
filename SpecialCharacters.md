@@ -4,17 +4,20 @@
 | Description | Display | HTML Escapes | Inline <br> Escape Code | UTF-8 |
 | ----- | ----- | ----- | ----- | ----- | 
 | Ampersand | & | ```&amp;``` | |  ----- | 
+| Apostrophe  | ` | &#39; | \\\\ | ----- | 
 | Backslash | ----- | ----- | \\\\ | ----- | 
 | Backspace | ----- | ----- | \\b | ----- | 
 | Carraige Return | | | \r | U+000D | 
 | Carraige Return/Line Feed | | | \r\n | | 
 | Form Feed | ----- | ----- | \\f | U+000C | 
 | Greater Than (Right Angle Bracket| > | ```&gt;``` | |  ----- | 
+| Left Angle Quote  | << | &laquo; | ----- | ----- | 
 | Less Than (Left Angle Bracket) | < | ```&lt;``` | |  ----- | 
 | New Line |  |  | \n | U+000A | 
 | No Backspace | ----- | &nbsp; | ----- | ----- | 
 | Quote, Single | ' | ```&quot;``` ```&#39;```| \\' |  ----- | 
 | Quote, Double | " | | \\" |  ----- | 
+| Right Arrow Quote  | >> | &raquo; | ----- | ----- | 
 | Space | ----- | ----- | ----- | U+0020 | 
 | Tab | ----- | &tab; | \\t | U+0009 | 
 | Tab, Line | ----- | ----- | ----- | U+000B | 

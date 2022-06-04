@@ -4,10 +4,15 @@
 
 | Source | Namespace ID | Namespace Call |  
 | --- | --- | --- |   
+| Atlassian JS | AJS- | --- |   
+| CKEditor | cke- | --- |   
 | CrEdge |-ms |  |  
 | FireFox |-moz |  |  
 | FontAwesome | fa- |  |  
+| FullCalendar | fc- | --- |   
 | Google | material- |  |  
+| Google Analytics | ga- | --- |   
+| Google Tag Manager | gtm- | --- |   
 | Microsoft | m | `xmlns:m="http://schemas.microsoft.com/office/2004/12/omml"` |  
 | MS IE, Edge |-webkit |  |  
 | Opera |-o |  |  
@@ -15,6 +20,7 @@
 | Twitter | bi- | Bootstrap Icon | 
 | VML | v | `xmlns:v="urn:schemas-microsoft-com:vml"` |  
 | Word | w | `xmlns:w="urn:schemas-microsoft-com:office:word"` |  
+| WordPress | wp- | --- |   
 
 | NameSpace ID | Source |
 | ---------- | --------- |

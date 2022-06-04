@@ -8,6 +8,7 @@
 | Aggregated Class  | A class that contains at least one data member that references an object  |  
 | Aggregation  | The concept of referencing objects from a class’s data members  |  
 | Algorithm  | A step-by-step solution to solving a problem or performing a task that a computer system can execute |  
+| app template | a ready-to-use codebase that allows you to build your own mobile & web app much faster and at a fraction of the cost |  
 | Applet  | A Java program that runs from within another program, which is typically a Web browser; it has restrictions placed on its instruction set consistent with this execution mode’s need for enforced security |  
 | Applet Container Program  | The program, typically a Web browser, within which an applet runs; the container invokes the methods that are part of the applet’s lifecycle  |  
 | Applet Lifecycle  | The period of time that begins when an applet’s execution is initiated and ends when it is terminated; during this time period, the applet’s container program invokes the applet methods init, start, paint, stop, and destroy to manage its execution  |  

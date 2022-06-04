@@ -3,11 +3,13 @@
 | Acronym | Description | 
 | ---- | ---- | 
 |2FA| Two-Factor Authentication | 
+| A2DP | Advanced Audio Distribution Profile | 
 |ADB| Android Debug Bridge |  
 |AJAX| Asynchronous Javascript And XML |  
 |AMA| Against Medical Advice |  
 |ASIN| Amazon Store Identification Number |  
 |AWS| Amazon Web Services |  
+|BAS| Bachelor of Applied Science  |  
 |BLUF| Bottom Line Up Front |  
 |BYOS| Bring Your Own Server |  
 |CCL| Creative Commons License |  
@@ -24,10 +26,13 @@
 |DRM| Digital Rights Management |  
 |DTD| Document Type Definition |  
 |DVC| Data Version Control |  
+|DXP| Digital Experience Platform | 
+|EC2| Elastic Compute Cloud | 
 |EOQ| Economic Order Quantity |  
 |FIFO|First-In, First-Out (AKA: Queue)|  
 |FILO|First-In, Last-Out (AKA: Stack)|  
 |GPG <BR> GnuPG| GNU Privacy Guard |  
+|GTN| Google Tag Manager | 
 |HID| [Human Interface Device](https://www.usb.org/hid)  |  
 |HSL| Hue-Saturation-Luminescence  |  
 |HTTP|HyperText Transfer Protocol|  
@@ -57,6 +62,7 @@
 |PUA| Private Use Area (Unicode) |  
 |PWA|Progressive Web Application|
 |Py| Python |  
+|RE| Requirements Engineering | 
 |RFC| Request for Comment |  
 |RGB| Red-Green-Blue |  
 |ROP|Reorder Point|  
@@ -69,6 +75,7 @@
 |SMS| Short Message Service |  
 |SOAP|Simple Object Access Protocol|  
 |SRD| Systems Requirement Document |  
+|SRS| Software Requirements Specification | 
 |SSH| Secure Shell |  
 |tl;dr <BR> [AKA:TLDR]| [Too Long; Didn’t Read] (https://www.howtogeek.com/435266/what-does-tldr-mean-and-how-do-you-use-it/)  |  
 |TCL|Tool Command Language|  
